@@ -15,6 +15,17 @@ Stacks are LIFO type of data structure.
 - Insert: O(1)
 - Remove: O(1)
 
+### Queue
+
+Queue are FIFO type of data structure.
+
+#### Big O of a Stack manipulation:
+
+- Access: O(n)
+- Search: O(n)
+- Insert: O(1)
+- Remove: O(1)
+
 ### Sets
 
 a Set is like an array that can't have duplicates values inside
